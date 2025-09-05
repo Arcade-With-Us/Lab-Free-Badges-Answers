@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://www.cloudskillsboost.google/focuses/49749?parent=catalog"_blank" rel="noopener noreferrer">
+  <a href="https://www.cloudskillsboost.google/course_templates/199"_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Open_Lab-Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=34A853" alt="Open N0-Lab Badge">
   </a>
 </div>
@@ -27,25 +27,9 @@
 
 ---
 
-## ⚙️ <ins>Lab Environment Setup</ins>
-
-> ✅ **NOTE:** *Watch Full Video to get Full Scores on Check My Progress.*
-
-**🌐Launch Cloud Shell:**
-Start your Google CloudShell session by [clicking here](https://console.cloud.google.com/home/dashboard?project=&pli=1&cloudshell=true).
-
-## 💻 **Execute in Cloud Shell** 
-
-```
-curl -LO raw.githubusercontent.com/Arcade-With-Us/Google-Cloud-Labs/refs/heads/main/Introduction%20to%20Cloud%20Dataproc%20Hadoop%20and%20Spark%20on%20Google%20Cloud/GSP123.sh
-
-sudo chmod +x GSP123.sh
-
-./GSP123.sh
-```
 ---
 
-## 🎉 **Congratulations! Lab Completed Successfully!** 🏆  
+## 🎉 **Congratulations! Badge Completed Successfully!** 🏆  
 
 Your hard work and determination paid off! 💻
 You've successfully completed the lab. **Way to go!** 🚀
@@ -76,6 +60,6 @@ You've successfully completed the lab. **Way to go!** 🚀
     <em>This guide is provided for educational purposes. Always follow Qwiklabs terms of service and YouTube's community guidelines.</em>
   </p>
   <p style="font-size: 12px; color: #586069;">
-    <em>Last updated: June 2025</em>
+    <em>Last updated: September 2025</em>
   </p>
 </div>
