@@ -69,31 +69,31 @@
 ### Shared drives:
 1. `There is a folder in the On the Rise shared drive called “Conference material”. This folder is full of old files that are no longer used. How can Thomas Omar delete these files from the shared drive? Select all that apply.`
 
-* ✅He can select the files, and then select Move to trash
-* ✅He can drag all the files to the Trash
+* ✅**He can select the files, and then select Move to trash**
+* ✅**He can drag all the files to the Trash**
 
 2. `Sherrie West is a member of many shared drives. How can she set up her Google drive to only see the ones that she uses most often?`
 
-* ✅Right click on the shared drives she does not use and select Hide shared drive from the menu
+* ✅**Right click on the shared drives she does not use and select Hide shared drive from the menu**
 
 3. `Sherrie West has just created a new file named “On the Rise employee onboarding”. Thomas asks Sherrie to move the file to the On the Rise shared drive as opposed to keeping it in her My Drive. Why might Thomas ask this? Select all that apply.`
 
-* ✅This way the file is owned by everyone in the shared drive
-* ✅This way the file is available even if Sherrie leaves the company
+* ✅**This way the file is owned by everyone in the shared drive**
+* ✅**This way the file is available even if Sherrie leaves the company**
 ---
 ### Templates:
 1. `Sherrie West often needs to list On the Rise job postings. She creates these files in Google Docs and likes them to have the same style. How can she create a template that she can easily re-use?`
 
-* ✅Create a Google Doc OTR Job Posting to use as the template, then open the template gallery for Google Docs, select On the Rise, then choose Submit template.
+* ✅**Create a Google Doc OTR Job Posting to use as the template, then open the template gallery for Google Docs, select On the Rise, then choose Submit template.**
 
 2. `Seroja Malone would like to use the “On the Rise’ Google Docs template created by Sherrie West. What does she need to do?`
 
-* ✅Select New, Google Docs, then From a Template, then choose the On the Rise template.
+* ✅**Select New, Google Docs, then From a Template, then choose the On the Rise template.**
 ---
 ### Google Drive tools and options:
 1. `Seroja Malone is traveling and knows she won’t have an active internet connection. She is working on a Google Sheet named “Ingredient list”. How can she make this file available for offline viewing?`
 
-* ✅She can right-click on “Ingredient list” from the files list and select Available offline.
+* ✅**She can right-click on “Ingredient list” from the files list and select Available offline.**
 ---
 
 ## 🎉 **Congratulations! Badge Completed Successfully!** 🏆  
