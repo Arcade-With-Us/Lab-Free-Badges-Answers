@@ -28,7 +28,8 @@
 ---
 ### Introduction to Google Drive:
 1. Anthony Dylan has an On the Rise folder saved in his My Drive. He decides to invite Sherrie West and Seroja Malone to access the folder. Who now owns the content found in the folder?
-   ✅Anthony Dylan
+
+✅Anthony Dylan
 ---
 
 ## 🎉 **Congratulations! Badge Completed Successfully!** 🏆  
