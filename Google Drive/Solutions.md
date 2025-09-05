@@ -26,7 +26,7 @@
 - **DM for credit or removal request (no copyright intended) ©All rights and credits for the original content belong to Google Cloud [Google Cloud Skill Boost website](https://www.cloudskillsboost.google/)** 🙏
 
 ---
-### Introduction to Google Drive:
+### 🎀Introduction to Google Drive:
 1. `Anthony Dylan has an On the Rise folder saved in his My Drive. He decides to invite Sherrie West and Seroja Malone to access the folder. Who now owns the content found in the folder`?
 
 * ✅**Anthony Dylan**
@@ -39,7 +39,7 @@
 * ✅**She can add collaborators**
 
 ---
-### Share with Google Drive:
+### 🎗️Share with Google Drive:
 1. `Seroja Malone gives her head baker access to the “French baguette” file. She assigns the baker as an Editor. Which of the following can he do? Select all that apply.`
 
 * ✅**He can view the file**
@@ -49,7 +49,7 @@
 
 * ✅**She can view the file**
 ---
-### My Drive:
+### 🎯My Drive:
 1. `Sherrie West needs to search for an On the Rise Google Sheet in her My Drive. Unfortunately, she can’t remember the name of the file. What are some ways she can narrow her search? Select all that apply.`
 
 * ✅**She can manually search by content type**
@@ -66,7 +66,7 @@
 * ✅**Open Drive, select the My Drive label, right click on an open spot in the file list and select New folder from the menu**
 * ✅**Open Drive, select the My Drive label, then select New and choose Folder from the menu**
 ---
-### Shared drives:
+### 🪄Shared drives:
 1. `There is a folder in the On the Rise shared drive called “Conference material”. This folder is full of old files that are no longer used. How can Thomas Omar delete these files from the shared drive? Select all that apply.`
 
 * ✅**He can select the files, and then select Move to trash**
@@ -81,7 +81,7 @@
 * ✅**This way the file is owned by everyone in the shared drive**
 * ✅**This way the file is available even if Sherrie leaves the company**
 ---
-### Templates:
+### 🏅Templates:
 1. `Sherrie West often needs to list On the Rise job postings. She creates these files in Google Docs and likes them to have the same style. How can she create a template that she can easily re-use?`
 
 * ✅**Create a Google Doc OTR Job Posting to use as the template, then open the template gallery for Google Docs, select On the Rise, then choose Submit template.**
@@ -90,7 +90,7 @@
 
 * ✅**Select New, Google Docs, then From a Template, then choose the On the Rise template.**
 ---
-### Google Drive tools and options:
+### ♥️Google Drive tools and options:
 1. `Seroja Malone is traveling and knows she won’t have an active internet connection. She is working on a Google Sheet named “Ingredient list”. How can she make this file available for offline viewing?`
 
 * ✅**She can right-click on “Ingredient list” from the files list and select Available offline.**
