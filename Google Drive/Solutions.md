@@ -27,11 +27,11 @@
 
 ---
 ### Introduction to Google Drive:
-1. Anthony Dylan has an On the Rise folder saved in his My Drive. He decides to invite Sherrie West and Seroja Malone to access the folder. Who now owns the content found in the folder?
+1. `Anthony Dylan has an On the Rise folder saved in his My Drive. He decides to invite Sherrie West and Seroja Malone to access the folder. Who now owns the content found in the folder`?
 
 * ✅Anthony Dylan
 
-2. Sherrie West has On the Rise employee files saved in her My Drive. What can she as the owner do with these files? Select all that apply.
+2. `Sherrie West has On the Rise employee files saved in her My Drive. What can she as the owner do with these files? Select all that apply.`
 
 * ✅She can share a file link
 * ✅She can move the files
