@@ -37,6 +37,7 @@
 ✅She can move the files
 ✅She can delete the files and restore them from the trash
 ✅She can add collaborators
+
 ---
 
 ## 🎉 **Congratulations! Badge Completed Successfully!** 🏆  
